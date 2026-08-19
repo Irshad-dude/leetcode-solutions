@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
