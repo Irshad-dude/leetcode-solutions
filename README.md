@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
@@ -48,9 +49,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0525-contiguous-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irshad-dude/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
